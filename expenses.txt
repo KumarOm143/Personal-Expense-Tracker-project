@@ -1,0 +1,1 @@
+[{"date": "31/05/2001", "category": "Food", "description": "samosa", "amount": 20.0}, {"date": "15/02/2002", "category": "Food", "description": "Jilebi", "amount": 300.0}]
